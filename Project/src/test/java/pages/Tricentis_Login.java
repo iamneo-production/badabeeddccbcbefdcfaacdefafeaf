@@ -34,6 +34,6 @@ public class Tricentis_Login {
 	public void Login()
 	{
 		login.click();
-		//This is the loogin
+	
 	}
 }
