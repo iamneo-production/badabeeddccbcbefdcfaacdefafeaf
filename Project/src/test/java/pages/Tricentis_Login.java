@@ -33,7 +33,6 @@ public class Tricentis_Login {
 	
 	public void Login()
 	{
-		System.out.println();
 		login.click();
 	}
 }
